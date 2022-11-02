@@ -1,2 +1,2 @@
 ﻿# Restraurant-Menu
-Created using webkit as part of odun project exercises.
+Created using webkit as part of the odin project exercises.
